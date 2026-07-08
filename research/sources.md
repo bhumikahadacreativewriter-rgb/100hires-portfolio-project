@@ -19,9 +19,8 @@ framework breakdowns are in `linkedin-posts/` and `other/`.*
 ## 3. Nick Bennett
 * **Platform:** LinkedIn
 * **Profile Link:** https://www.linkedin.com/in/nickbennett1
-* **Verified:** 2026-07-08
-* **Annotation:** Ex-Clari/Alyce/Airmeet operator. Current headline is "B2B marketing operator... | Author | Events, ABM, GTM" under "NB Marketing" (~57k followers) — no Club PF mention, so his focus is now events/ABM-driven pipeline rather than founder-brand coaching.
-* **Note:** Common name, several unrelated LinkedIn profiles exist. This URL is corroborated by a third-party podcast page linking to it, but not by the profile's own bio — worth a manual click-check before relying on it further.
+* **Verified:** 2026-07-08 (manually click-checked — profile bio confirmed)
+* **Annotation:** Ex-Clari/Alyce/Airmeet operator. Current headline is "B2B marketing operator. I've run the playbooks that don't work so you don't have to | Author | Events, ABM, GTM" (~57k followers) — no Club PF mention, so his focus is now events/ABM-driven pipeline rather than founder-brand coaching.
 
 ## 4. Sam Browne
 * **Platform:** LinkedIn
