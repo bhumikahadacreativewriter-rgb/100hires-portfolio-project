@@ -10,4 +10,25 @@ Most automated tools pull up generic marketing influencers. To ensure high-quali
 
 ## 🛠️ Technical Execution
 * **Folder Architecture:** Structured strictly according to project specifications under the `/research/` workspace.
-* **Automation Automation:** Built custom Python scripts utilizing the `youtube-transcript-api` to programmatically extract raw content data without manual copying.
+* **Automation:** Built a custom Python script (`research/fetch_youtube.py`) using the `youtube-transcript-api` to programmatically extract raw transcript data without manual copying.
+* **LinkedIn:** No free, ToS-compliant API exists for post content, so LinkedIn posts are collected manually into a consistent per-author markdown template (see `research/linkedin-posts/README.md`).
+
+## 📊 Collection Status (as of 2026-07-08)
+
+| Expert | Platform | Content collected |
+|---|---|---|
+| Justin Welsh | LinkedIn | 0 posts (template ready) |
+| Lara Acosta | LinkedIn | 0 posts (template ready) |
+| Nick Bennett | LinkedIn | 0 posts (template ready) |
+| Sam Browne | LinkedIn | 0 posts (template ready) |
+| Ryan Musselman | LinkedIn | 0 posts (template ready) |
+| Jasmin Alić | LinkedIn | 0 posts (template ready) |
+| Dina Calakovic | LinkedIn | 0 posts (template ready) |
+| Melissa Kwan | LinkedIn / YouTube | 0 posts, 3 transcripts |
+| Christopher Lochhead | YouTube | 1 transcript |
+| TK Kader | YouTube | 3 transcripts |
+
+**Totals:** 7 YouTube transcripts across 3 experts, 0 LinkedIn posts collected yet across 8 experts.
+
+**Known gap:** LinkedIn post collection hasn't started — next step is manually pulling
+3-5 representative posts per LinkedIn-focused author into their `posts.md` file.
