@@ -1,0 +1,638 @@
+we just crossed a million ARR um which I
+feel like big mil so thank you so this
+is the biggest like now officially the
+biggest company I've ever built hello
+everyone welcome to the B2B SAS podcast
+I'm your host upendra and today we have
+Melissa Kuan with us Melissa is the
+co-founder and CEO of a company called e
+webinar hey Melissa welcome to the show
+thanks for having me all right Melissa
+let's try to understand right what e
+webinar does and why customers are
+willing to pay your
+[Music]
+money okay uh e weinar um is a webinar a
+solution so we turn any video into an
+interactive webinar that you can set on
+a recurring schedule so you can do
+hundreds of them every single month
+without needing to be in front of a
+camera to do it live so we scale um you
+know live webinars things like live
+demos training onboarding um we automate
+that for you so you never have to do
+them yourself good and what use case are
+you specifically trying to focus on
+right I mean I could see a lot of use
+cases here right I'm assuming you must
+have you know you know zeroed on on
+couple of them right so what use case
+are you trying to solve here yeah um I
+mean there's two primary one is of
+course like sales and marketing like
+Legion people using this for like sales
+pitches demos thought leadership and
+then the second is customer success
+which is like post sale so it could be
+like training content onboarding as you
+can imagine if you have a tech company a
+SAS company um you know you've got like
+lots of onboarding and training to you
+know deliver to your customers but we
+also actually serve a lot of non- tech
+companies as well like
+companies you know real estate companies
+that are constantly training their
+agents on like new regulations new
+products so if I joined one of your
+webinars right does it look like a real
+webinar do I know I'm on an automated
+setup or like how does it even
+feel yeah I I think we've done a good
+job into making it look and feel more
+like an interactive TV like there's a
+two-way participation where there's what
+we call a lot of interactions that come
+up so like polls questions uh you know
+contact form sales notifications you
+know things that pop up so there's like
+things you can I guess play with for the
+lack of better term as you're watching
+The Experience so it's less like a zoom
+where you're in it and like someone's
+talking at you and then there's a a chat
+system where you can like ask the host
+questions they can respond in real time
+or respond later through email so it's
+kind of like a support chat um I mean it
+looks and feels not so much like like
+it's live right like we encourage our
+customers to never lie to their
+customers and say it's live when it's
+not but it it's almost like the Netflix
+of webinars right like whether you're
+watching friends at 7 pm on a Thursday
+when it's live on network or watching it
+on Netflix it's the same show yeah so I
+would say like people know that it's not
+100% live because they're getting it
+immediately and when you click on the
+registration page there's like 10 time
+slots you can choose um but you know
+it's more of a hybrid because there is a
+chat that you can respond in real time
+if you want to yeah my question here is
+right I mean does it work right so I
+mean if I'm watching a webinar maybe I'm
+attending to hear to somebody right so
+but if it's something that's recorded
+already and if you already let me know
+like I'm just trying to understand like
+what what's that you know drop off rate
+between a live webinar or something like
+this because this is like wonderfully
+scalable that's very obvious if I'm a
+somebody sitting in a sales stream I
+would definitely want this but yeah does
+it work as good or even better than what
+I have right
+now I mean you're asking the founder of
+a company is it better than what you
+have right now so I'm going to have to
+say yes and I'm assuming you'll back it
+up with some some data or something so
+that's that's and so
+um yeah I I mean let's put the whole
+drop off thing like drop off rate thing
+to the side for a second like I think
+the attendance rate to Live Events
+because it only happens one time is is
+known to be low right I would say like
+20% or lower like because people sign up
+and they want the replay because like 11
+your time is 11:00 p.m. my time so I
+sign up to get the replay but maybe I
+never watch it right we all have replays
+we don't watch um and that's accepted as
+the norm but just because that's a norm
+I don't think that has to be a reality I
+think the nature of having something be
+accessible anytime you want and for the
+quality to be even better than live
+because the content's tighter the video
+quality is better there's no
+housekeeping and questions and
+interruptions right our our average
+attendance rate across all customers is
+65% on average My Demo like you know
+because people are really by nature of
+coming to my site watching my demo so
+they're most likely going to come in but
+the attendance rate of My Demo is
+90% anyone that's run a webinar before
+knows that that's impossible these are
+impossible rates but it's because we're
+making it available at your schedule I'm
+not forcing you to fit my schedule so I
+think that's piece one um the question
+that you asked is like what's drop off
+rate like well I can't speak for
+everybody because drop off rate is fully
+dependent on the person delivering the
+content the industry and is the video
+quality good is sound quality good but I
+want to say that because it's
+pre-recorded the quality the scripting
+the video quality like can be much
+better and much tighter and we give you
+the option within the software to allow
+people to watch in like playback speed
+right so to watch in like
+1.5 I cannot sit through something that
+is like a you know normal speed every
+podcast every video I watch at
+1.75 all of them so I'm gonna drop off
+if I watch a live webinar live event
+because I'm bored but if I'm going to
+something automated and I think they are
+other people like me I can choose to
+watch it faster if I want to right so I
+think that's kind of the main difference
+but I think drop off rate is fully
+depend dependent on like Are you
+delivering value yeah and that's a great
+pitch Melissa I think I got a sense of
+what you're trying to say here let's
+move on to your customer base here right
+so as of today right how many paying
+customers do you have on your platform
+approximately yeah so I think we have
+like I think just under 800 companies
+now
+and what sort of deal sizes are we
+talking about here right so like how big
+of bigger deal I know there's going to
+be a spectrum here right but like
+typically what for your ideal customer
+right how much would they typically pay
+is it $1,000 de is $100,000 deal I wish
+th deal so we're a we're a self-served
+platform so we're we're a product Le
+grow SAS so it's a it's a low investment
+product so we start at a 100 bucks us
+and then so it goes from like 100 200
+300 and then kind of goes up from there
+but our average is I think 10 I want I
+want to say like it's $150 a a team um
+is the average of month right that's mon
+per month yeah it's around $2,000
+something like that your ACV something
+like that yeah got it right so yeah and
+just let's move on right so where where
+people discovering you right so where
+you're getting all of this growth from
+right so what what growth channels have
+been working for you so
+far yeah so my actually my post today on
+LinkedIn is about all the zero doll
+marketing strategies that that we that
+we deployed in in um the past three
+years but I want to say SEO and content
+which we owned um like the strategy we
+own is the most successful um marketing
+strategy that we have over 50% of our
+demos actually come from there um I
+share you know two to six times every
+single week on LinkedIn just not related
+to company content but like my
+experience be trapping three companies
+So 20% of our demos come from there um
+and then there's a lot of other stuff
+right like not just SEO optimized
+content we create a lot of co-marketing
+content like guest post templates
+trainings for you know things that our
+customer and Prospects find valuable and
+we put that content out there um and
+then there's also like you know getting
+into app stores right doing Integrations
+once you do an integration maybe they'll
+do like an announcement so there's all
+this kind stuff that kind of has like
+compound interest over time but I want
+to say like social media and like SEO
+optimized content are the two major
+traffic drivers I want to Deep dive a
+bit into this right so and in terms of
+content right so what sort of content
+are we talking about is it just you know
+SEO optimized blog posts which are long
+form is that it or do you have any
+specific strategy that's going
+on yeah I mean I think content is Broad
+right the idea of content is Broad so um
+of course like SEO key like heavily
+keyword research like um content is like
+long form content is like I would call
+SEO optimize so that those are like 50%
+of our traffic comes from organic search
+but other pieces of content are like of
+course social media posts templates
+within our um you know with within our
+products customer case studies getting
+people to write reviews on like G2 Capa
+all those things creating resources that
+I share with other Founders that are
+completely unrelated so like a good
+example is uh Financial projections
+Excel document that you can copy and
+paste um I have you know I actively get
+on other people's podcast so like you
+know the podcast that we're we're on now
+right it's it's a marketing strategy of
+mine as well I had a podcast in the past
+with 15 episodes all of it is Evergreen
+content every single one of those has a
+page on my site so these are just like
+some some of the more obvious things um
+and then you know the less obvious
+things I would say like getting on to
+other people's app stores like
+HubSpot you know maretto Salesforce and
+then having people discover us through
+there as well so so Melissa you talked
+about your LinkedIn strategy SS right
+where you typically go out and share
+your own bootst Journey your story right
+that people connect with then maybe they
+come to you right so my question is like
+does the customer base you're trying to
+Target overlaps with that right so do
+you have a good overlap there because if
+there's no overlap it might not make a
+lot of sense right and and I asked this
+question everybody because I mean
+everybody says like okay just go ahead
+be honest share your journey but I mean
+if that doesn't match right so it's not
+going to make any sense right so in your
+case what's how does that look like does
+it
+match yeah so um and that's a great
+that's a great question because so I
+took a course on like how LinkedIn works
+from Justin Welsh I don't know if you
+know him as a Creator but his whole like
+method is write about something within
+your expertise that attracts the
+audience you care about yeah otherwise
+it's useless so the best customers for E
+webinar are resource strapped companies
+right because we are almost like an
+extra person that are doing these
+webinars for you and resource strap
+companies are bootstrap companies yeah
+like they are my number one Target
+customer or like small medium companies
+right which consider themselves kind of
+boot
+bootstrapping so um it just it just was
+just such a natural fit that I would
+only write about like stories from my
+bootstrapping journey to attract other
+bootstrappers and then they come to my
+profile and the main link that I have is
+is e webinar.com so for me it it
+definitely matched but you're right like
+if your if the content you're putting
+out there is not attracting potential
+customers they were they're never going
+to come to your site but I think there's
+a reason why 20% of our demos actually
+come from LinkedIn is because there
+there is an alignment there got it right
+and let's move you know towards the
+bottom of your funnel right is it
+completely Self Serve right or do you
+have any you know touch motion
+completely Self Serve okay so zero I
+refuse to I refuse to talk to anybody
+regardless of how big their company is
+it's about training your customer like I
+know I hate calls and I didn't start a
+product to be product Le yeah so that I
+can talk to people I did that in the
+beginning right for the first year
+because it like every company starts off
+sales Le I had to sell probably our
+first 100 deals but that gets tiring
+pretty quickly because you're not
+getting the return right Sal cycle is
+long and it's like 100 bucks to start so
+when somebody comes into the funnel and
+they're like oh I would like to talk to
+a person before I sign up the answer is
+no I will not talk to them because if I
+talk to them once they'll know that
+after they sign up they can get me again
+and again and again so it's part of me
+like training my customers to know that
+we're always there on support on text on
+email and they can get us at any time of
+the day they just can't get me on the
+phone that makes a lot of sense so so
+what happens in your funnel right is it
+like okay somebody discovers you they
+start a trial and then they essentially
+after you know whatever that time period
+is they just have to subscribe to a PID
+plan is that
+it yeah that's really it right you know
+they join a demo um after they join a
+demo they get entered into like a 10 we
+demo right so there's nobody sitting
+there yeah your own product we use our
+product to deliver our demo so like I
+think last year over 3,000 people watch
+a demo I didn't do a single one live but
+there's um a kind of a 10day very quick
+follow-up like every second day and then
+they get it put into like a six week
+kind of followup and then they get it
+put into a sequence of getting one mail
+per month about like you know how
+customers are using us and things like
+that as kind of a nurture campaign if
+they do not sign up and don't convert if
+they sign up but don't convert then they
+get put into kind of a a different a
+different track of 12 emails over the
+next year uh but really just to remind
+them that uh we're here but everything
+is like selfs serve and and super simple
+and then can you just quantify how this
+funnel looks like right so what sort of
+a conversion rate are we talking about
+for somebody who signs up to somebody
+who becomes a paid customer of yours
+approximately yeah so about um 20% of
+people that join our demo will sign up
+on um on on a trial but of course not
+everybody has to watch a demo before
+they sign up on a trial like some people
+sign up without without that um and then
+depending on the month I guess our
+conversion rate from trial to paid is
+anywhere between 35 to
+40% before we doubled our prices so our
+prices when we started used to be 50 and
+now it's 100 before it when it was 50
+conversion rate was about
+60% but we had a a lot more turn and we
+had a lot more people that weren't very
+tech-savvy and needed more support after
+we raise our price um you know we had
+less trials you know a lower conversion
+but it's a net positive because we are
+charging double but the major positive
+is we're getting more serious people
+signing up not just people signing up
+because we're cheap and then need a
+bunch of handholding and then don't
+convert so so what's really been working
+for you right I mean I'm assuming there
+are like bunch of C you know competitors
+out there right so so how do you
+establish that credibility during those
+you know 14 20 days when they're using
+your product for trial right so how do
+you manage to convince them and if
+you're not getting into a call right so
+how you establishing that credibility
+why why why do they have to pick you
+right so what's what's happening there
+like what's the secret source for such
+yeah two things um one is we have the
+most most incredible product by far I
+want the customer to be in deep research
+because if I was the first person you
+come to you have nothing to compare to
+if the first car that I saw was a
+Ferrari like oh what else is out there
+maybe maybe there's something better
+maybe the seat's too low like I'm not
+sure right but anyone who is deep in
+research and has seen like two or three
+other products or maybe five or six
+they'll come to us and be like this is
+the best so that's number one is like
+you have to have what do you mean by the
+best is it like what what's that feature
+like is it in terms of feature set or
+you're talking about usability or
+performance are the Ferrari of automated
+webinars and I I I don't say that
+lightly right we have the most features
+we have the only chat system that lets
+people hop in real time or respond later
+through email it's not a fake email box
+that looks like chat it's real we have
+20 different interactions it looks and
+feels like the apple of webinars and
+this is words you know from our
+customers number two is for Better or
+For Worse we are always available right
+we have a small team everybody's on
+support seven days a week if someone's
+awake they're
+responding and this is part of trust
+yeah right like of course that's not
+sustainable over time as we get bigger
+but people feel close to us they feel
+like we're human you're not getting put
+in a queue of tickets and someone
+responds to you in five days and we
+listen to your feedback and we actually
+implement it if it makes sense and so
+our even if I'm just starting a trial
+and I'm not your paid customer would you
+reply to me
+immediately that's my next question
+right so like like I'm assuming now that
+your customer support is not automated
+right you've got people you know okay
+and what's the we have a very we have a
+very big no but we have a very big like
+help center so it's automated in that
+sense like any any question they have
+maybe we have an article like we don't
+help them we don't get on a call we only
+help them through text and email um like
+we we just use Hub SWAT for for
+ticketing um but we have a very
+quick response time and a very huge
+library of help articles that they can
+actually go through um but I think the
+most important thing is we make them
+feel present and we make ourselves
+trustworthy and we make our customers
+feel like they're part of the process so
+they can impact the road map so they
+make a difference in our product so I've
+heard that like time and time again it's
+why people pick us is because our
+support is really good and mea what
+about churn here right so I'm assuming
+you you're spending a lot of time in
+insurance that your customers are
+successful right so what sort of churn
+rates are we seeing I mean obviously
+after increased prices right so now that
+you've got a bit less churn yeah I mean
+I think turn is normal especially for
+SMB um I think our turn is anywhere from
+like 8 to 10% Revenue wise a month it's
+higher than I wanted to be but it's also
+because we've never worked on that part
+of our business we've always been like
+chasing something else but actually as
+we speak this quarter is the first
+quarter we're we're looking at how to
+better activation and
+and onboarding by you know more better
+inapp messaging better emails we just
+installed user pilot we don't even
+measure anything we have no stats on our
+customers we've just been like chasing
+features chasing Revenue but now we're
+in a place where we can like breathe a
+little bit um but yeah like turn is is
+higher than I want it to be but there
+and you can't you can't save all turn
+yeah right if that makes sense like some
+people are just not ready some and maybe
+like maybe some people sign up and it's
+more it's too expensive for them maybe
+they're not even ready in their business
+yeah but um I I've heard this really
+great thing before where it's like when
+when customers or when companies obsess
+about turn it's almost like leaving a
+party where people are having a great
+time to chase after people who left
+because they're not having a great time
+yeah right it's you should you should
+find more people who want to come to the
+party and that's what we've been doing
+and that's why customer case studies and
+reviews is such a big part of our
+marketing is we want people we want to
+find more people like them and not focus
+too much time on like oh why did you
+leave and when did you leave and let's
+measure why you left like that that is
+actually less important to me so Melissa
+let's talk about the back story here
+right have you raised any external
+funding so far to build your
+company so we do not have any
+institutional funding so no VC no
+private Equity we do have like friends
+and family funding the beginning to get
+started but David and I David is my CTO
+co-founder we wrote the first checks so
+we invested financially of course and
+our time um into the business to to get
+it started and then like as a pH are you
+completely
+bootstrap yeah I mean I would consider
+that bootstraps like we don't have zero
+funding but I think having zero funding
+is is a misconception of bootstrap
+companies yeah yeah bootstrap companies
+start some yeah you don't have VC
+funding we have like friends and family
+and then how big is your team
+today we have all contractors zero
+employees um but as for full-time
+contractors we have eight people um and
+then we have like some part-time on as
+needed so as needed is like designers
+contract writers so so who buildt the
+entire product is it just you know you
+your CTO working with this contractors
+my CTO yeah my CTO we've got a team in
+Vietnam we have a team of five develop
+developers in Vietnam and we just
+recently brought on another senior from
+Ukraine um but he is like the lead of
+the product he still he still writes
+codee and he manages the the the
+development team as well I wish I can
+code but you know I can't all right so
+Melissa so what's what's the big Vision
+here right so where do you see your
+company going in L the next two to three
+years well we just crossed a million ARR
+um which I feel like so thank you so
+this is the biggest like now officially
+the biggest company I've ever built
+um honestly my goal and You' got
+absolutely two people on your you know
+what you say permanent payroll is that
+how we can see it right so because
+everybody's a contractor
+um yeah I don't pay myself um yet I I
+hope to in in you know in the next few
+months um but you know there even if
+they're a contractor I would still
+consider them on payroll because they're
+I'm just paying them differently because
+they're far away they're not like
+country profitable
+today uh I think we hit our first
+profitable quarter or last quarter but I
+don't pay myself so this is a big you
+know this is a a big detail is if I did
+pay myself then I can't but I did sell a
+compy in 2019 so I'm I'm you know living
+living off the proceeds of that um which
+allows me to do what I do um but yeah
+sorry I forgot back to the vision of
+your company in the next yeah the vision
+of my company I just number one I want
+to pay myself not a small salary I want
+to pay myself a market
+salary uh you know I've been doing this
+for 13 years and the only two years I've
+ever had a real salary was when I sold
+my previous company to a new company all
+of those years when I was working for my
+myself I was not getting a market salary
+so I I want to pay myself a market
+salary I want everyone on my team to get
+a market
+salary
+and my goal is just to make sure
+everybody has a good time and live well
+and if in the future we sell this
+company that would be a bonus but it's
+not the thing that I'm going for the
+thing I'm going for is freedom and
+lifestyle and making sure everyone is
+taken care of and and has a good time
+and are you going to raise VC funny and
+VC money and are you going to sort of
+Chase that extraordinary growth never I
+think I want to chase extraordinary
+growth without VC money okay I think
+that's key yeah that's wonderful Melissa
+all right Melissa thanks for taking the
+time to talk to M it's a wonderful
+conversation right so hope you scale e
+weinar to much Much Greater Heights
+thanks so
+much thanks for watching the B2B SAS
+podcast Channel please make sure to
+subscribe to the channel here

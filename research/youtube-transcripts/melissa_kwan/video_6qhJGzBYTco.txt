@@ -1,0 +1,1186 @@
+this is reverse engineered hi everyone my name 
+is john penland and this podcast is brought to  
+you by kinsta a premium managed hosting 
+provider in today's episode we're going  
+to be chatting with Melissa Kwan founder and ceo 
+of ewebinar Melissa welcome to reverse engineered  
+thanks so much for having me john 
+we're very pleased that you chose to  
+be with us today so to get us started can 
+you introduce yourself to our audience  
+yeah my name is Melissa Kwan i'm the co-founder 
+and ceo of ewebinar i've been in startups for a  
+little over 10 years this is my third company and 
+a little fun fact about myself i've been digital  
+nomading for the past three years living out 
+of airbnb sublets and hotels and i'm currently  
+joining you today from hong kong awesome okay so 
+uh three companies over 10 years how much time  
+has ewebinar been what you've been working on uh 
+it's been two years now uh the product's been live  
+for the past eight months but we've been 
+working on that long before anyone's ever  
+seen the product right so so you launched ewebinar 
+then entirely as a digital nomad is that right  
+yes that's correct okay wow okay fantastic so for 
+anyone who may not be familiar with the webinar  
+give us a quick rundown of what ewebinar is yeah 
+so eu webinar takes any video and turns it into an  
+interactive automated webinar that you can set 
+on a recurring schedule so we save people from  
+doing the same webinar over and over again and we 
+help you deliver the perfect webinar every time  
+without you there okay so so is this uh it sounds 
+like this is going to be then obviously a product  
+for marketers do you see other applications 
+like an online learning or is this primarily  
+a marketing focus tool right now yeah actually 
+that's that's interesting you say that because  
+90 or maybe i think over 90 of our customers use 
+e-webinar in customer success okay so i define  
+customer success as anything post-sales so it 
+could be training onboarding upselling um and then  
+close to 10 of our customers are in marketing and 
+sales that use e-webinar to deliver a demo that  
+can happen at any point of the day um but what 
+makes really makes us unique as as a product is we  
+take a video and we combine it with live chat 
+and real-time interactions to deliver an engaging  
+experience for attendees without you being there 
+so you get the whole idea of e-webinar is built  
+around freedom okay so our mission is to help you 
+get your time back yeah it's interesting as as you  
+were talking about a webinar and as i was looking 
+at it a little bit prior to uh this conversation  
+i was putting on my operational hat going i 
+could actually see a lot of value in this product  
+for because i we do as i as as the operational guy 
+i deal with hr and so we do a lot of onboarding  
+and training and i was sitting here going i can 
+actually see some application for this product in  
+that setting where you could deliver information 
+and you could have the hr person there live  
+answering questions but the training could be uh 
+automated a little bit yeah absolutely a lot of a  
+lot of different application there so so ewebinar 
+as you alluded to this isn't your first foray into  
+launching your own company you mentioned you've 
+launched three companies over the last 10 years  
+if i caught that correctly so so what led you 
+down this path from the beginning 10 years ago  
+as you're launching your first venture what led 
+you down that path of starting your own company
+so what's interesting is i think um i don't think 
+people decide one day that they're gonna become an  
+entrepreneur right like it's okay like if you want 
+to make money there's many many many different  
+ways to make money in fact like if you want to 
+make money you should not be an entrepreneur  
+okay like the the the chances of you failing 
+is actually much higher than you succeeding  
+and absolutely you know you you would know that 
+right like having be an entrepreneur and also  
+seeing other entrepreneurs trying to launch their 
+business so i think i was always entrepreneurial  
+but not knowing that because i didn't grow up in 
+a family that like my family didn't start their  
+own businesses my mom was a housewife and my dad 
+worked for the same company for 40 years their  
+only hope for my brother and i were just like 
+we would be an investment banker or a doctor or  
+you know an accountant that's something that 
+gave us a regular paycheck like something that  
+they had to work really hard for um and but i 
+think it was always like creative and i always  
+thought about different ways to make money but not 
+for the sake of making money it was always like  
+could i create something that somebody else will 
+pay for so when i was in elementary school for  
+example i would make these little like origami 
+cranes or turtles and see if i could sell them  
+for like 25 cents yeah absolutely i mean you don't 
+you don't as a kid you don't think like oh i'm  
+trying to make a business you're just trying to 
+be like okay well i'm making this thing and will  
+someone pay for it and so um i was always a very 
+bad employee i always jumped through different  
+jobs and i i really hated authority and i and 
+i had issues you know following instructions so  
+um i had a bunch of odd jobs before i started my 
+first company and it wasn't like i didn't think  
+to myself i'm going to start a company i just 
+thought i really hate this job and i want to  
+create something of my own yeah so it wasn't like 
+a certain it actually when i look at my parents  
+and how conservative they are i don't actually 
+know what led me down this path it was just  
+right something that made me think i want to 
+create something whatever that thing might  
+be and i wonder if somebody will pay for it 
+yeah yeah that's interesting it it's funny um  
+the idea that i feel like i'm hearing come through 
+there you you you have said a couple of different  
+times something along the lines of can i make 
+something and have somebody pay for it can i  
+do my own thing and there's something as i was 
+reading about your philosophy as you approach  
+d webinar something that i've seen you write 
+a couple of different times is this idea that  
+freedom is my number one priority in life yeah and 
+actually i think you already mentioned that once  
+early on uh when you were introducing yourself 
+so i wanted to unpack that a bit because i i  
+feel like what i'm hearing is that really that 
+was kind of a driving factor from the beginning  
+uh you struggled as an employee because you you 
+didn't take necessarily instruction particularly  
+well and then you launched your own ventures 
+so let's unpack that a little bit what when  
+you say that freedom is your number one 
+priority what does that look like to you  
+so that's a great question and i don't think 
+a lot of people have asked me that and i  
+think everybody defines freedom differently 
+right like freedom to me is the ability to
+the ability to make your own choices 
+at your own will right so where am i  
+going to wake up in the morning when it's 
+choosing when and what you want to work on  
+without someone telling you right it's the 
+freedom and i haven't achieved this yet but  
+it's the freedom to travel and enjoy certain 
+experiences without the limitations of  
+maybe your finances or um and that's actually 
+that's actually why i don't have i don't have  
+children sure so the idea that like so my like i 
+guess my idea of freedom is like to not be trapped  
+right to not be bound to someone else's 
+decision on where and what and who you can be  
+right yeah yeah so that that carries with 
+it a couple of different i feel like um  
+factors so there's there's definitely a time 
+component there in terms of wanting to have  
+control over your own time there's certainly 
+a finance component there in the sense that  
+a certain degree of financial independence 
+is necessary to enjoy enjoy freedom so as  
+you look at your entrepreneurial journey usually 
+people do not necessarily associate time freedom  
+with starting your own company because that tends 
+to be a very time-consuming thing i i i am not one  
+of the founders of kinsta i joined early on 
+but i've watched the founders of kinsta and  
+time scarcity is is something especially 
+early on that they really struggled with  
+so i'm just curious as you had these different 
+ventures that you started how did time  
+and the desire to have freedom factor in as you're 
+starting companies and and trying to manage your  
+time and not let it consume all of your time well 
+the reality is when you're starting a business it  
+consumes all of your time okay but yeah it is 
+you choosing the hours of time that it consumes  
+sure right like starting a business means you 
+work more but at your own time that's really  
+important because when you work for another 
+company it's nine to five nine to six ten to  
+four you know whatever it is and when you're off 
+work you're off work right and for some people  
+that's freedom right like the freedom to do more 
+than what you are willing to right but but for me  
+like i want to spend all the hours i can on it 
+but only when i want to not because i have to  
+and that is my definition of freedom right right 
+i wake up in the morning i do a few hours i take  
+the entire afternoon off nice and then i start 
+work again from you know six or seven p.m until  
+three or four in the morning yeah so okay it 
+doesn't mean i work less it means i work more  
+but i am more energized because i work at the 
+hours that i feel most productive so how is that  
+like not complete freedom right right 
+absolutely and i'm curious because  
+you know as somebody again in the operational side 
+of a business there's a lot that is dictated to  
+uh our company by our customers in terms of 
+timing and availability have you made certain  
+choices in how you structure and build your own 
+businesses to try and and pull back some of that  
+control where we're obviously you know as you've 
+described you're working early you're taking the  
+afternoon off and then you're working late into 
+the evening are there structural choices you've  
+made about this is how we're going to design 
+this business to allow me to operate and what  
+do some of those choices look like so the the word 
+design is really interesting right so i've written  
+about designing your life right like i believe 
+in life design right the idea that like it is  
+incredible the amount of the amount of i guess 
+um control it's amazing the amount of control  
+you can have your life all over your life if you 
+decide today that i'm going to design the life  
+that i want to live so what does that mean right 
+it means like understanding your non-negotiables  
+right so i don't take calls in the morning okay 
+that that is my non-negotiable i don't wake up in  
+the morning because i work late at night unless i 
+really want to but i try to avoid it sure so what  
+does that mean it means being honest to your 
+customers about that right if your customer  
+says okay can you can you make it at 9am no i 
+can't because i don't take calls in the morning  
+right but it's having the confidence to say that 
+because once you are once you have conviction  
+in your non-negotiables you make choices 
+accordingly so you can have the conviction  
+to tell your customer i don't do this sure so we 
+can work out something that works with both of us  
+yeah and it is actually amazing how much people 
+will accommodate to that and respect that because  
+people just they're too yielding right they're 
+too accommodating yeah yeah and i'm curious is  
+this is this something that you knew early on or 
+is this something again you've been doing this for  
+10 years right so i i it seems likely to me that 
+when you first launched your first venture maybe  
+you didn't have that rule and that's one that you 
+built in over time or i guess what i'm asking is  
+are these things that you've learned over time and 
+designed into ewebinar but maybe didn't have in  
+place in some of your prior ventures are these are 
+these kind of learn lessons learned along the way  
+yeah i mean i think i've say i've been doing 
+this for 10 years maybe a little over 10 but  
+say i've been doing this for 10 years i didn't 
+really come to know what would make me happy  
+like what makes me truly happy and what my 
+non-negotiables are until maybe two years  
+ago okay right because you're as an entrepreneur 
+like you're so tied up into making something work  
+you're so like enthralled into trying to pay other 
+people's bills you don't have time to think about  
+what makes you happy yeah right you don't have you 
+don't have the luxury like having control on how  
+being able to make those decisions is a luxury 
+and some people get there a lot faster like i  
+didn't get there until a couple years ago but i 
+think it's an earned privilege but it's also like  
+confidence is earned because when you're new like 
+you're like you have no idea what you're doing so  
+the customer says i need you to do this you do it 
+and and then at the end of the day you feel bad  
+about it you're like wait that's not what makes 
+me happy i'm doing it but i i hate you for that  
+right and it takes a lot of confidence and and and 
+knowing that you can say no to be like no this is  
+actually what makes me happy right yeah yeah and 
+something that i noticed as i was again doing some  
+research prior to this call is that i feel like 
+you did you talk about these ideas being earned  
+but i feel like when you launched a webinar you 
+did kind of pre-make a lot of these decisions like  
+i was looking at some of the kind of foundational 
+ideas uh and i know there were three ideas create  
+something i can be excited about every day be 
+able to share our successes with friends build a  
+fully remote team it feels like as you went along 
+you learn these lessons and you were able to  
+um dictate those terms because you you designed 
+the webinar out of the gate in that way is that is  
+that accurate were you intentionally designing 
+a webinar in a way that allowed this to work  
+yeah so that that is absolutely accurate so in 
+my previous company um so my first company i  
+ran it for three years which kind of transitioned 
+into my second company which i ran for five years  
+so together that was that was an eight year 
+journey and this one i've been doing for two  
+i can honestly say that in in 
+those eight years i was miserable  
+okay yeah and i was miserable because i didn't 
+i didn't ask myself the right question when i  
+started right i think a lot of people think like 
+oh i'm gonna start a company because i'm supposed  
+to or my peers are or i think i have a really cool 
+idea and i think it's going to become something or  
+i'm going to make a ton of money but what is 
+hugely underrated is people don't ask themselves  
+what is the life that i want to live sure it 
+has absolutely nothing to do with your business  
+but understanding that that is important to 
+you is a maturity thing right because a lot of  
+times like you're young you're in your 20s you do 
+what you think you're supposed to and you pretend  
+to know what you know you pretend to know what 
+you don't and then eventually you figure it out  
+but in your 20s you don't think like what is the 
+life that i want to live sure you're still living  
+your life you're still figuring out like do i like 
+red wine or white wine right right right like do  
+i like to travel or not do i like this person or 
+not like do i like my friends i don't even know  
+right so until you can actually figure that 
+out right you don't know the life that you want  
+to live and the reason why i think it's hugely 
+underrated is because your career is especially  
+as a founder your career becomes such a big part 
+of you sure that your life becomes your work  
+so if you don't start with the right question 
+of what kind of life do i want to live  
+and and find a business that fits that you do the 
+other thing which i've fallen into which a lot of  
+my peers fall into as well you start a business 
+and then you force a life that fits into your  
+business sure so i was just miserable because i 
+built a business um according to you know in real  
+estate because that was my that was my experience 
+i never really liked it but it was my experience  
+and i did it and then i thought oh maybe i'll 
+make some money and then i just kept doing it  
+but then i realized i'm too deep into it i'm not 
+making money any money and i hate the industry  
+that i'm in yeah so you know luckily we we kept 
+going and we had you know we had a good outcome  
+but i knew coming out of that that if i were to do 
+anything again i would start with the question of  
+what is the life that i want to live and then find 
+a business that fits that because whatever that  
+business is it's going to be five to ten years and 
+i'm willing to commit to it but i'm not willing to  
+commit to it if it doesn't give me a lifestyle 
+that i love which at that point was digital  
+nomading having a remote team having a team 
+accept and like the fact that i am remote as well  
+but also because freedom is just such an important 
+thing to me to create something that gives other  
+people their freedom the feeling that i have 
+when i feel ultimate control is the feeling that  
+i want to give someone else and that's what this 
+business is about yeah yeah i i have so many notes  
+jotted down here of questions that i want to ask 
+coming out of that answer so i'm going to try to  
+get to them something you touched on there at 
+the end is that something that's important to you  
+is that what you're doing today give other people 
+their freedom give other people the opportunity to  
+experience the same sort of freedom that you find 
+so valuable in your own life can you speak to that  
+a bit what are what are some of the choices 
+or some of the some of the ways that you've  
+approached setting up e-webinar just practically 
+speaking that have allowed other people to enjoy  
+the same types of freedoms well i think number 
+one is our whole team is real so i've always been  
+working remotely my previous company our team is 
+in vancouver but everyone has the opportunity to  
+work remote they just never really took that 
+opportunity okay sure what was interesting  
+about what i've learned is the idea of freedom 
+is more important than the execution of it yeah  
+so everyone had the opportunity to work remote 
+but they never did but knowing that they could  
+prevented them from going to another company like 
+an amazon like a facebook that didn't give them  
+the same freedom so we were able to compete 
+as a tiny startup that wasn't venture-backed  
+with these massive companies because we gave the 
+people the idea that they had control yeah and it  
+wasn't like a tactic it was like it was absolutely 
+authentic and genuine but what i learned was like  
+people need to know that they have control 
+more than executing it yeah yeah and this  
+time around like our you know we have like 
+our dev team is in vietnam and belarus  
+we have team members in vancouver new york in 
+hong kong as well like it i don't believe in i  
+don't believe that talent is tied to geography 
+sure especially in this day and age where the  
+world is flat like my first company's name is 
+like firewall applications like especially with  
+like all the technology that we have today talent 
+is wherever you can find it and i truly believe  
+that people are most productive when they get to 
+choose where they wake up in the morning and maybe  
+that's not the same thing for everybody but i want 
+to work with people that have the same philosophy  
+and the same idea of how they want to live and 
+i want to attract people that are like myself so  
+when you have that culture you naturally like 
+other people kind of gravitate towards that so  
+um that's one thing is like everything is set 
+up so that everyone's a you know everyone's a  
+contractor they're full-time but they're paid as a 
+contractor sure but everyone can be anywhere they  
+want there is one caveat though is as long as the 
+customer comes first sure sure absolutely yeah so  
+and if you're okay with that then there is no you 
+know after hours there's no weekends and we don't  
+expect people to be on call for the weekend but 
+if there is something that needs to be delivered  
+and if something is broken it needs to be okay 
+that you're there to fix it for a couple hours  
+right yeah yeah there needs to be kind 
+of an all hands on deck mentality where  
+but then you can necessarily watch in there 
+watching their watch or watching the clock  
+but then you you end up designing an 
+organization that is very customer-centric  
+sure so it's everything for the customer right 
+right you can take a week off if you want but  
+if something is broken and it's the customer 
+like we need to we need to fix it immediately  
+right so there's ownership and accountability 
+to the customer and that's that's the culture  
+yeah yeah it's really so interesting to hear 
+you talk because so much of what you are saying  
+aligns so closely with the way kinsta is set up 
+we we likewise are a distributed team we're all  
+over the place uh we likewise have you know 
+like a flexible leave policy and folks can  
+work from anywhere in the world that they want 
+to and as much as possible we do have you know  
+customer support teams and whatnot that we provide 
+24 7 coverage we have to have folks online at  
+certain times but outside of that we offer a good 
+deal of flexibility around scheduling and whatnot  
+and and so there's just a lot of alignment between 
+what you're describing and then you even get into  
+the concept of ownership and that is something we 
+harp on all the time uh within the company is is  
+the need to really own your function own your 
+job we expect you to be the expert to really  
+own what it is that you do and and for our 
+customers to come first we we being customer  
+centric is a core value for us as well so a lot 
+of what you're saying resonates so closely with  
+my own experience of working at kinsta and 
+and another idea that you expressed the idea  
+of freedom is more important i can remember 
+when i was working this was prior to kinsta  
+i reached a point there was a time 
+when i was working for this particular  
+company where financially doing something 
+else was not viable i needed that paycheck  
+and then i reached a couple of financial goals 
+and and suddenly i had some money in the bank  
+and i didn't have debt breathing down my neck 
+and i actually had the freedom like i had the  
+potential to go do something else and at 
+the same time my job satisfaction rocketed  
+because as soon as the sense of being trapped 
+was gone i felt like i was showing up by choice  
+and all of a sudden my satisfaction with being 
+there was so much higher i really think there's  
+a lot of truth to that that the idea of freedom 
+the sense that i'm not trapped is more important  
+really than the specific fact that folks could 
+work remotely yeah yeah and i think like once you  
+give like there's there's also like a certain 
+amount of um trust that needs to go with that  
+but when your team members know that you're not 
+breathing on your neck micromanaging like the  
+the moment you they know that you trust that 
+they have ownership over their tasks like  
+i mean i think people people just deliver 
+right you don't have to worry about them  
+right like we don't we don't have like you know we 
+don't have like um i mean this is probably unique  
+because we have a small very small company but 
+we never really had like yearly reviews we never  
+like right you know people just like did stuff 
+and it was like a very lateral organization but  
+that's like what what i prefer right like it's i 
+i'm you know the founder of the company but i've  
+never enjoyed managing people sure yeah i've 
+actually i've actually hated managing people  
+so it's better that people manage themselves 
+right yeah that's that actually leads me into  
+one of the other questions that came up a moment 
+ago in my mind which is you've talked a lot about  
+setting up the company such that it supports a 
+lot of freedom in your lifestyle i was curious  
+if you've made the kind the same types of choices 
+in setting up the company such that you have a  
+degree of freedom in the tasks that you engage 
+in and you just mentioned management as some  
+being something that you don't particularly love 
+are there are there other things other choices  
+you've made you know you're on your third startup 
+are there things from the prior two that you said  
+i'll start another company but i'm not doing 
+that that is not something that i personally  
+uh it just doesn't i don't enjoy doing that it 
+needs to be done but it's not something i'm going  
+to be engaged in i'm going to find somebody who 
+that resonates with so have you made that same  
+sort of those same sort of choices around the 
+tasks you take on i mean i think i've always um  
+i've always been comfortable delegating so i'm not 
+one of those founders like i'm very aware of what  
+i don't know and and what i'm not good at and 
+i'm very comfortable delegating those tasks out  
+i almost never do anything i'm bad at um but 
+i i do think that one of my one of the things  
+that i teach my little cousin and i think about 
+this a lot like he hated math right she was like  
+horrible at math and he was like well i'm bad at 
+it because i hate it and my aunt was like i was  
+was i'm ten years older than him so my aunt was 
+always like asking me to give him some mentorship  
+and i told him like sure anybody can be good at 
+what they love sure but in order to be great you  
+have to also be good at the things you don't 
+love sure because not everybody can do that so  
+i recognize that there are many many tasks 
+especially in starting a company absolutely  
+that is just mundane and repetitive and and it's 
+just administration and i don't want to do them  
+but i also recognize that i don't have the luxury 
+right so from that perspective it's like well  
+i don't have to do it but if i want my 
+business to be successful then i do have to  
+right so i think what i the way that i structure 
+my business is i never do anything that i'm  
+bad at okay but i'm pretty good at a lot of the 
+things i hate as well right like i hate doing  
+like i hate doing projections i do them i 
+hate sure doing documenting i do all that  
+right like i hate payroll and and hiring but i do 
+all that right so but i i don't think that's like  
+yeah and i think that's the one thing as 
+a business owner especially if you're not  
+venture-backed like you just don't have a choice 
+right sure right right like are you yeah so are  
+you gonna see this through or not right right 
+right right so you do have that you know that  
+choice to structure the business such that it 
+works for your life but when it comes to getting  
+business done there are times where in order 
+to if the business is going to be a success you  
+have to engage in the tasks that need to happen 
+whether you like them or not well because yeah  
+like because because what are you doing it for 
+right you're doing it so that at some point in  
+the future you can have financial freedom or 
+the freedom to choose you just can't do it now  
+so if doing certain things that you don't want 
+today means it takes you closer to your ultimate  
+goal then those are just things that those are 
+just tasks that you have to do to take you closer  
+to what you ultimately want to achieve yeah yeah 
+and that's interesting i i feel like i feel like  
+what i'm seeing is is a bit of a differentiation 
+between what might be more of an entrepreneurial  
+or a founder mentality and versus an employee 
+mentality and i say that as an employee so i to  
+be clear i'm not disparaging here i'm an employee 
+i'm not a founder but i i feel like a lot of times  
+and i interact a lot with our hr function 
+internally folks get really oriented towards the  
+responsibilities of a role and you know what am 
+i going to be doing day to day and it sounds like  
+what you're saying is that as a founder as an 
+entrepreneur you really can't be focused on  
+that now obviously you need to be productive and 
+get those things done but you don't really have  
+a job description you don't have that luxury of 
+saying what is it that i'm going to be focused on  
+your job is to move the business from where it is 
+today to where you're trying to get and whatever  
+that means is what it means well a ceo's goal 
+i mean a ceo's only job is to make sure there's  
+money in the bank sure right so is that through is 
+that through revenue right is that through raising  
+funds or is that through like investing your own 
+money sure so if my ultimate goal is to make sure  
+that there's money in the bank so the company 
+keeps going and people keep working for us then  
+i will do whatever it takes to make sure there's 
+money in the bank so is that project management  
+because we we we think that this particular 
+feature is going to make us revenue so is it to  
+like see that through or is it like to make sure 
+that we have projections so that we understand  
+exactly where we are at the business today like i 
+don't know how to do a spreadsheet like somebody  
+had to teach me that but now that i know it's 
+just like something that we have to do is it like  
+motivating people so that you know they're going 
+to keep going even though we're not paying market  
+salaries but it's all it all boils down to like 
+you're the ceo and you make sure there's money  
+in the bank to make payroll on the 15th on the 
+30th there is nothing else that you have to do  
+right right yeah that's interesting i see again 
+a lot of parallels between what i see happening  
+at kinstow where i see our ceo early on actually 
+building out product and then as time went on  
+being really focused on customer service and 
+then being really focused on infrastructure and  
+then today he's a lot more focused on you know 
+long-term vision and strategy uh and and his  
+his focus has changed as we were just having 
+a conversation about it yesterday and a lot  
+of his focus right now is around uh communication 
+right just about making sure that everybody in the  
+company understands what's what's happening 
+what the priorities are where we're going  
+and so it's interesting to see that that same 
+type of thing playing out at kinstow where  
+uh it really is the job of the ceo is to say what 
+does the company need today like what what does  
+this company need today and that is going to 
+be a different answer as time goes on so the  
+the last question that i had come up 
+with as you were speaking a minute ago  
+uh so kind of looking back and then we'll 
+shift into a little bit of a different topic  
+it strikes me that you're a digital nomad who has 
+built a product your digital nomad who prioritizes  
+freedom who has built a product that is heavy on 
+automation like is there is there some alignment  
+there is this is this a situation where you're 
+going i need this product for my own life like  
+uh is there some alignment there between your your 
+own priorities and the product you built well it's  
+perfect alignment right so in my past company i 
+i ran it for five years it was a sas company um  
+and so as a lot of listeners might know like 
+sas companies make money based on adoption and  
+engagement sure somebody signs up if they know how 
+to use their product they will be sticky if they  
+don't know how to use a product they unsubscribe 
+right and so my last company was an enterprise  
+sas software so we're constantly selling bigger 
+companies that make sure their team members their  
+agents and employees use it but if their team 
+members don't use it you don't get the renewal  
+sure so making the sale is step one like making 
+the sale is day one to like the rest of your  
+life with that company yeah and every company 
+wants you to kick it off not a sales manager  
+not a customer support person but as a 
+startup when they've taken a chance on you  
+they want you to kick it off yeah so i realized 
+like i was selling software into a company and  
+then every single company wanted me to do the 
+onboarding wanted me to do the kickoff wanted me  
+to do the training which was fine but it like 
+as we got even a little bit more successful  
+i don't mean like really successful like as we 
+started to sign on our fifth and sixth customer  
+those kickoff webinars were unmanageable yeah 
+because like everybody wanted you to kick off  
+but the problem is with webinars the the biggest 
+problem of webinars is someone needs to do them  
+sure absolutely right like you're here 
+doing a podcast this might as well be a  
+webinar but you're interviewing right but that 
+happens once right so when you have a thousand  
+person company and you do one kickoff it's not 
+enough right because maybe a hundred people can  
+make it so 100 people sign up 50 people show 
+up and then they sign up for the replay but  
+there's no engagement right like i so i 
+was constantly doing these kickoffs for  
+different customers but i was only doing one 
+so the impact that i was having was very low  
+and the biggest other problem was every single 
+one of those kickoffs were exactly the same sure  
+yeah so i was like okay well i'm traveling so 
+i've basically created a life where i can travel  
+and enjoy it and you know we were in chile we were 
+in vietnam we have all these really cool places  
+and i was supposed to be winning at 
+life you know and but my entire schedule  
+was dictated by my customers demos right yeah 
+right how crazy is that right you're you're  
+traveling around the world you've earned this but 
+i was like 4 a.m in kyoto doing a demo because  
+that's what was required to make to to make sure 
+that my company like my my customer feels loved  
+and my company keeps going so years ago i was 
+already like i wish there could be a solution  
+that can take a video and deliver it 
+like a real-time webinar but it must  
+have a component like a live chat component that 
+makes the customer feel like they're being heard  
+and there were automated webinar companies out 
+there but they were just like they were they were  
+poorly built right it was it was almost the same 
+like it was if i had to compare it would be like a  
+wix to like a geocities you know you remember like 
+geocities yeah like just super scrappy and there  
+was but it was either that or like a youtube video 
+nobody wants to watch a youtube video absolutely a  
+webinar is an event that you put on your calendar 
+there's two-way engagement there's conversation  
+in a youtube video you can send it 
+out but do you know if they watched it  
+can you follow up like it's it's a push versus 
+pull right right so yeah i envision a product that  
+would allow me to train and onboard and sell to my 
+customers and my prospects without being there but  
+it does not lose the two-way engagement which is 
+so important nowadays right yeah right and so like  
+the freedom that i didn't have and the product 
+that i had envisioned that would give me that  
+freedom is the product that we have today right 
+right right yeah which which kind of leads me to  
+the next question is i i assume um you guys do you 
+guys use uh your own product then for onboarding  
+your own new customers is that is that the way 
+that works yeah so every anytime someone wants  
+a demo from me yeah um i don't i don't give a live 
+demo so it's like sure here's a demo you can join  
+it at your own time we run it 10 times a week i'm 
+moderating it and what's ironic is for the first  
+two months that we had to get the business going 
+i was doing at least 25 live like one-on-one demos  
+a week yeah because that was that's what was 
+required sure but i did it for two months and  
+we got our initial set of customers going 
+we had some use cases going and then now  
+uh what's interesting is if somebody like i will 
+still do a live demo for a friend or like a friend  
+of my friend sure but a hundred percent of the 
+time if i say i am happy to do a live demo for you  
+or here's a 15-minute demo that you can join at 
+your own time and i will be a resource to you  
+if you have questions afterwards 100 of the time 
+they don't want a time on my calendar right so  
+if you think about like how consumer behaviors 
+have shifted like if you say if if somebody says  
+john i want to learn more about your company 
+and you say great schedule time with me  
+they're going to bounce right yeah absolutely 
+like you don't you don't get your content like  
+consumers are so savvy nowadays they want to do 
+their own research and they don't want to talk  
+to a sales person until they're ready exactly 
+yeah and what we do is we make that we make  
+that content available all the time and you can 
+step in when you want to sure sure yeah it feels  
+like the the classic distinction between calling 
+and texting right where it's like don't call me  
+text me right so i know when someone calls me i'm 
+like there's something wrong exactly so it kind  
+of feels like the same sort of shift where folks 
+uh are more comfortable when they can engage with  
+content on their own schedule and in a way where 
+they don't necessarily feel pressured in the  
+moment to have to respond well i feel like yeah it 
+reduces the pressure factor for the recipient for  
+the viewer well anybody nowadays knows that if 
+i talk to a sales person i'm never getting rid  
+of them right right that's what they're thinking 
+like and i know that because i'm a salesperson  
+yep so but the cons like the consumers are 
+king nowadays right so are you giving them  
+like you have to give them information when 
+they want it at the time that they want it but  
+you still have to make sure they know that they're 
+heard yeah and that's how absolutely that's how  
+picky we are nowadays like and like i i challenge 
+people to think about their own buying journey  
+like if you are the customer which you are you're 
+you're the consumer of something else like when  
+you want to buy a product how do you want to be 
+treated right sure but from the other side like  
+if i'm a salesperson and i don't have to talk 
+to someone and only make the sale when they're  
+ready like awesome yeah yeah yeah that's fantastic 
+yeah it's interesting that you you highlight the  
+need that you give them the content at the time 
+that they want to consume it but you still make  
+yourself available as a resource that's that's 
+really powerful that's that's a that's a really  
+powerful insight so i i want to shift gears here 
+a little bit and ask a couple of questions that  
+veer more into the personal freedom that 
+you've talked about a little bit because  
+as you've mentioned you are a digital nomad and 
+i'm curious how has the pandemic affected your  
+travel and your lifestyle over the last you know 
+year or so so ironically we got a place so we  
+traveled for two and a half years my partner and 
+i fell in love with amsterdam it's one of the most  
+amazing cities in the world uh recently lived in 
+new york live you know left three years ago um  
+and we got a place in amsterdam because we were 
+so sick of traveling sure okay two and a half  
+years like we need a home base take a break like 
+we were literally like and we we hate checking in  
+luggage so we only sure we only have a hand like 
+a handheld on the premise that anything you want  
+you can buy but we're very we're fairly simple 
+like we're we don't care a ton about fashion  
+like if i could wear the same thing every day 
+i would sure but it was more about like the  
+experience of being somewhere else um and so we're 
+finally sick of it and we got a place in amsterdam  
+about about a year ago and because of 
+covid we hadn't been back for one year  
+so we got a place to stop traveling but because of 
+kovid we escaped so we actually what was so crazy  
+was like we at the beginning of the pandemic we 
+had a trip that was planned um to see some friends  
+in in hawaii which who we had met at burning 
+man and on the i don't i think it was like march  
+13th or something was was our date like was what 
+was uh when we were flying but i don't know if you  
+remember this but like march 14th yeah was like 
+when the whole world had shut down right so when  
+we were going to the airport my friend had texted 
+me and said hey all this stuff is being announced  
+i don't know if you still want to come it's okay 
+we won't be offended if you don't want to come  
+and i didn't actually i mean myself and the 
+rest of the world was just underestimating  
+sure like i thought i was like yeah a couple 
+weeks yeah i was like yeah a couple weeks okay  
+we'll just go there we'll be stuck for a couple 
+weeks so we landed in hawaii in a big island and  
+the whole world had shut down right so then we 
+ended up being in hawaii for four months um and  
+then we went to vancouver we spent the summer 
+in vancouver where i'm from for for four months  
+we went back to amsterdam for two weeks um 
+because my partner hadn't seen his kids for  
+a couple a couple no he hadn't seen his kids 
+for nine months at that point so he's like  
+to i need to like be dad i need to get home for 
+a little while and then as soon as we got there  
+we you know played dad and and after that i was 
+like okay so it's not yet winter um covet is  
+everywhere and the thing is like we're starting 
+a business so i don't want to take a risk of like  
+he's our like so my life partner is also our cto 
+my goal okay all right yeah so i was like okay  
+well we are in the beginning of our business so if 
+either of us get sick if we're out for five days  
+that's the business goes problem yeah and so 
+if we're out for a few weeks or worst case  
+scenario if one of us are out forever there's 
+no business and sure all of our investors are  
+friends like we're we're not playing with random 
+people's money like we're responsible for our  
+friends money absolutely so we spent a couple 
+weeks in amsterdam and it was nice to be home  
+after so long but i was like okay well let's make 
+the sensible decision yeah right let's go let's  
+leave europe because it's going to melt down when 
+when winter comes and let's go to a place with  
+with very little virus and you know my family's 
+from hong kong originally so we were able to come  
+here um so we've been here for a few months now 
+um so what's interesting is how if the question  
+the original question is like how has covert 
+event affected our travel previous to covet we  
+were traveling once every week or two weeks oh wow 
+okay but because of covid we are now in places for  
+extended periods of time sure so we've been here 
+like we are in every place for like three or four  
+months because with the quarantine like it doesn't 
+make sense like you can't right yes you're right  
+yeah right yeah it doesn't make any sense to land 
+somewhere and stay in quarantine for two weeks and  
+then pack up and go somewhere else to quarantine 
+for two more weeks but then you get to know  
+cities that you're in in a different way yeah yeah 
+yeah and i imagine it's i mean it's you're also  
+getting to know them in a different way than uh 
+you would in non pandemic times because you know  
+the cities themselves are quite different right 
+now than they probably well we were in hawaii  
+where there are no tourists yeah exactly so our 
+friends our local friends were saying they've  
+never seen the beaches completely empty yeah it 
+was it was like you couldn't be on a beach like  
+you could go swim but you couldn't linger so every 
+single beach was empty could you imagine like  
+yeah a city that thrives on tourism has no choice 
+so we're able to see it in a different light yeah  
+absolutely yeah and i'm i'm curious staying on 
+the the digital nomad front do you find being a  
+digital nomad to be a hindrance to your work or to 
+be actually an advantage in the work that you do  
+i mean i don't think it's one or the other 
+i think it's okay like i think for me  
+i think it goes back to like what kind of life do 
+you want to live right like if this is the life  
+that makes you happy like if this is how you 
+are most productive if you thrive in this way  
+then you know it's an advantage right 
+but if you if you need structure like my  
+my previous co-founder to my other business like 
+he doesn't really like traveling he likes nine to  
+five he likes having a team in the office like 
+yeah he wouldn't thrive in this way right so i  
+don't think like being a digital nomad allows 
+me to start this business i think i would have  
+done it anyway but i am at my happiest sure when 
+i am in this state right right and in that way i'm  
+able to contribute to my business in a way that i 
+wouldn't otherwise right that's really what jumps  
+out to me is that as i hear you talking about you 
+know how much the way that you live means to you  
+i i feel like what i see is that inspiring you 
+to create work experiences for other people  
+in a specific kind of way and so you enable 
+other people to have freedom and to have  
+ownership over their roles and to have to enjoy 
+some of those own freedoms themselves without  
+necessarily having to go out and create their 
+own company and and i think that that again  
+speaking from the perspective of a company that 
+has a similar approach i think that bears huge  
+fruit in the success of your own business 
+well i also want to like encourage people  
+to think differently about their life yeah 
+right like how many times do you hear someone  
+say like oh i wish i could do x when i was 
+young or yeah i wish i can be more like you  
+why not right right like right what exactly 
+is stopping you yeah the only thing that's  
+stopping you and you know providing you don't 
+have kids or any dependents right like the only  
+thing that's stopping you and living that 
+life is the decision that you have to make  
+right like i i i knew like a lot of people like 
+you know in their in their 40s they have young  
+kids or in their 30s they've young kids i wish 
+in my 20s like i would have done this but yeah  
+right now travel is so affordable it's never been 
+more accessible it's never been more affordable  
+and then with airbnb and you know communities you 
+can sublet from like it's never been easier to go  
+to a place sublet something for a month tap into 
+a community and the thing about change that i love  
+the most is you can change again if it doesn't 
+work yeah right like the it is so much easier  
+to go back to what you know than to move forward 
+to what you don't so if you want to go somewhere  
+just go if you think i wish i can do this just 
+go do it because you can correct that decision  
+if you don't like it so i want to through this 
+particular lifestyle encourage people to think  
+yes you can do it there is actually nothing that 
+is tying you back from not doing it there's no  
+reason why you have to be home at a certain time 
+or yeah you know what whatever it might be like  
+you just have to make that decision to let it go 
+and i think we have this like manufactured like  
+i think we have this like manufactured 
+kind of like tied to like physical things  
+right we're tied to our home sure we're 
+tied to our bed we're tied to like  
+stuff but all of this stuff you realize 
+if you're willing to give that up  
+there is nothing that's more liberating sure 
+right because your stuff ultimately controls you  
+like isn't that like so ironic is like like 
+you want to control your things and then  
+ultimately your things control you because 
+you feel like you have to be there for it  
+right right you're absolutely right i mean a 
+few years ago my wife and i and and our family  
+we actually spent a couple of years doing the 
+digital nomad thing here in the united states in  
+an rv so we spent like three years and we hit like 
+26 different states over the course of three years  
+and we've intentionally chosen to 
+settle back down in where we're at today  
+specifically so that the kids could get involved 
+in things like recreation sports and and those  
+types of things that really need to be tied to a 
+specific location and and it's been interesting  
+you know having having been controlled by things 
+in the past and going through that phase where we  
+really had to disentangle so that we could go 
+on the road for three years and now coming back  
+and as we're making those decisions again we're so 
+much more critical about those decisions you know  
+like i'm looking at a vehicle now and i'm going 
+i'm not buying that vehicle if i can't sell it  
+i'm not buying a house if i can't sell it right 
+like if i'm gonna if i'm gonna make a commitment  
+i'm gonna make a commitment that can be unmade at 
+some point because i i have enjoyed that freedom  
+and if i if i want that freedom again i want 
+to know it's not that far away that that the  
+option is still there if i decided i wanted to go 
+that direction yeah well the thing about stuff is  
+like you like so i lived in this apartment 
+the same apartment for 10 years in vancouver  
+when i moved to new york i had to boil everything 
+down to a single room yeah so in my last two hours  
+before i head to the airport like i sold 
+my car i like posted on facebook and i come  
+whatever i can't sell can't get it up yeah and 
+maybe like a month after i moved to new york or  
+maybe less than that i don't even remember 
+what i gave away yeah that's how little the  
+stuff i held to meant to me like i kept like 
+memorabilias and like things like that like  
+packed in a box and maybe like shipped it to my 
+mom's house but sure you know the the furniture  
+that you spent too much money on right right like 
+you don't even remember like why does it matter  
+yeah you know that's so funny you say that when 
+when we went on the road we kept one like eight  
+by four storage unit of stuff and after we 
+had been on the road for a year we were like  
+we don't even know what's in there right like we 
+haven't touched this stuff in a year it's just in  
+a storage unit in texas i have no idea what's even 
+in that storage unit absolutely and then you're  
+paying more to keep that storage right then what's 
+inside exactly right yeah like we probably had a  
+thousand dollars worth of stuff in there and we're 
+paying you know a hundred dollars a month to keep  
+absolutely yeah all right so i'm gonna move us 
+forward to a conclusion here and i've got three  
+questions uh to kind of wrap us up and and take 
+us away so the first is what advice would you give  
+to a would-be entrepreneur somebody starting 
+out looking at launching their first company  
+what's some advice you would 
+give that budding entrepreneur  
+and that's something that i mentioned before 
+is i would start with um asking yourself what  
+is that life you want to live right and and it 
+could be simple things right like people think  
+that's complicated but it's not is it um i want 
+to live in thailand ultimately do it now yeah  
+right yeah like figure out how to do that now 
+and then figure out a business that fits that  
+or you know i want to serve a certain market 
+or i want to leverage my past experience like  
+don't do something because someone comes to you 
+and says john i have a great idea sure yeah and  
+you think you're the person to do it yeah given 
+enough time anyone can make anything successful  
+and every choice that is in front of you is a 
+choice that you can make but one of those choices  
+is going to make you is going to help you 
+get out of bed easier in the morning yeah  
+so make the choice that makes you happiest but you 
+can't make that decision unless you know exactly  
+what life you want to lead yeah so i would say 
+start with that and then figure out what your  
+non-negotiables are and then figure out the 
+business that fits that okay so start with  
+your non-negotiables start with the life you want 
+to live and then work on the idea from there nice  
+okay because if you don't have that any idea any 
+idea goes sure yeah everything everything works  
+everything's awesome right right well and i you 
+know i think the risk there is that you you do  
+something and then you get two years down the 
+road and realize you hate it right like you get  
+two years down the road and worst case scenario 
+maybe you're successful and you you really  
+hate what you're doing you really hate well the 
+businesses can change right like businesses are  
+not a constant but like what ultimately where you 
+ultimately want to get in your life like that's  
+like that's that doesn't really change and if 
+you don't make choices that fit that like fit  
+those life choices then you're constantly going 
+to think about how what else can you do to go  
+back to it and before you know it like you're too 
+deep into that business you can't let it go yeah  
+right yeah all right moving on to our second 
+wrap-up question here it what is a go-to resource  
+and and resource could be a newsletter 
+a conference a blog a community a person  
+whatever what's a go-to resource for you 
+for a business or entrepreneurship wisdom
+so um there are i mean outside of having i 
+think it's really important to have mentors  
+like people that you look up to and people you 
+can jump to absolutely um yeah who may or may  
+not be very close to you but people that connect 
+with where you are today and those people change  
+over time but outside of that um there are two 
+books that i love uh one is the alchemist okay  
+um it's it's a story it's a nice like story  
+it's like the ultimate journey of a boy 
+that like left his home to chase his dream  
+okay um but it's very well written it's a really 
+easy read you can probably finish it in a couple  
+days um but i i realized that like every time 
+i read that book at different points in my life  
+like different point like different different 
+things appeal to me um and it's a nice getaway  
+because i read a lot of like business stuff and 
+it's sure it's like nice to read something like  
+yeah it's a nice break but it's it's a really nice 
+story and there's a lot of good nuggets in there  
+but the other one is a book called the 
+presentation secrets of steve jobs he did  
+not write it uh carmine gallo did and it's a guy 
+that just studied like the way that he presents  
+i've been in sales all my life i think that one of 
+the one of the skills that is always missing from  
+founders is like the ability to sell and when you 
+have the ability and like the ability to sell is  
+not like i'm selling you this car i'm selling this 
+pen right it's the ability to sell to me means  
+understanding where revenue comes 
+from why is someone gonna pay for x  
+if you don't understand how to generate and how to 
+create value you you cannot make the right product  
+decisions you can build an incredible product 
+that generates no monetary value for somebody  
+so the presentation secrets of steve 
+jobs helps you craft a presentation  
+and guide someone to your desired outcome but 
+it's all about value creation absolutely yeah  
+it's interesting to hear you talk about the need 
+to sell as a ceo the thing that occurs to me  
+and i'm not sure if this is necessarily 
+directly relevant to that book is that as a ceo
+at a startup you're going to be selling 
+but at any size company you're going to  
+be selling ideas internally even if you're not 
+selling to customers you're going to be selling  
+you've got to get people on board with 
+what it is that you're trying to accomplish  
+but the ceo comes up with the messaging for 
+every department right right customer successes  
+sales support is sales right product management 
+they're all sales yeah right but if you you need  
+to understand where the money comes from before 
+you can craft that message yeah yeah i mean and  
+i would even go so far as to say that that in a 
+sense management is sales in a sense getting your  
+own team on board with what it is you're trying to 
+accomplish is is a form of of sales yeah all right  
+so uh last question where should our listeners 
+go to learn more about you or about ewebinar  
+uh we'll definitely come to ewebinar.com it's 
+spelled exactly how it sounds webinar.com  
+um lots of information on there if you're curious 
+about how we can help automate your business if  
+you are doing repetitive webinars or if a team 
+member is and you hate doing that um we might be  
+able to help you so any like onboarding training 
+marketing demos and if you want to connect me  
+connect with me through linkedin it's just 
+Melissa Kwan k-w-a-n so pretty straightforward  
+okay awesome so check out uh Melissa on linkedin 
+and check out ewebinar.com thank you so much for  
+joining me today Melissa it's been an honor a 
+privilege to speak with you today on reverse  
+engineered thanks john appreciate you yeah 
+yeah and thank you to all of our listeners  
+that is it for today's podcast you can access the 
+episode show notes at kinsta.com/podcast that is
+kinsta.com  
+if you enjoyed this episode don't forget to 
+subscribe to reverse engineered and leave us a  
+review on apple podcasts or the platform you're 
+listening on right now and see you next time

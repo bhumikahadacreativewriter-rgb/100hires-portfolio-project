@@ -1,0 +1,1006 @@
+My social feeds.
+They are flooded with posts like this.
+It's gurus
+telling me about how
+they completely automated their entire
+go to market team,
+and now they're just sitting around
+and it's just doing all the work
+for them. And you too. And me too.
+If I just comment on that post,
+I too can get that go to market team
+running on cloud code,
+just doing everything for me.
+But then there's also
+this other side to this story.
+I saw a post by Eleanor Dorfman.
+She leads Go to Market at anthropic
+anthropic is a company
+that created Claude Code
+and the suite of AI products
+that run on that LLM.
+She had a very different talk
+She came in with a very different message
+in this slide.
+She talked about how they're
+using the best in class,
+go to market tools.
+They're not building their own CRM.
+They're not building their own Zendesk.
+They're not doing any of that.
+They're including Claude
+as part of the best of breed tools
+including Clay, Salesforce,
+you name On top of that,
+she had this other side.
+They were looking at
+what the best
+humans were doing on her team,
+the best salespeople,
+they were creating tools
+that helped the rest of the organization
+mimic that behavior.
+So that whole message of
+just completely automating the entire org
+using cloud code was completely missing.
+And guess what?
+She doesn't need to pay for tokens.
+She gets it for free
+because she works at anthropic.
+It gets even better.
+I went to anthropic website
+I found 16 open positions for marketing
+and 69 open positions for sales,
+so they're continuing to hire.
+In fact,
+if you go on LinkedIn
+and look up anthropic,
+their sales headcount
+and their marketing headcount is growing
+just as fast as
+their engineering headcount.
+So here's a big question.
+If you can supposedly comment
+on a LinkedIn post
+and get all these cloud code scales
+and completely
+automate your go to market,
+then why is the creators of anthropic?
+Why are the creators of AI hiring
+so many humans to run their
+go to market organization?
+Here's what's really happening in
+AI and here's
+what's really happening in
+go to market today. In 2026.
+When you have a proper
+go to market strategy,
+a proper go to market framework,
+and you have the right people
+on the team,
+AI can accelerate the output.
+But if you just put
+in a bunch of AI agents
+and just tell them to go figure out your
+go to market,
+then it doesn't know what to do.
+Anthropic knows this,
+which is why they're hiring
+the smartest people.
+They're using cloud code,
+they're using the best platforms,
+and they're getting billions of dollars
+in revenue
+while the gurus are trying to sell you
+some cloud skills.
+So in this episode, I'm
+going to walk you through
+how to actually craft your
+go to market strategy framework.
+And when you implement the framework
+on how to establish your
+go to market strategy,
+you will be able to hire
+the right people and plug in the right
+AI tools
+so you can accelerate your path
+to the next stage of growth. Intro.
+What's everybody?
+I'm TC,
+the managing director here at TK capital.
+over here at TK capital.
+We own and operate
+a portfolio of SaaS,
+AI and advisory companies.
+on this channel
+I share everything that I've learned
+and everything that I'm learning.
+As we are growing these companies
+and helping our clients
+grow their companies.
+So if you're new to
+this channel, welcome.
+I drop an episode every single Sunday
+with actual strategies
+and tactics from the trenches,
+so be sure to hit the subscribe button
+and that bell icon.
+You'll get
+notified every single time
+I drop an episode
+with the TK energy Field
+part of this community.
+My people, welcome back.
+It's really awesome to see you over here.
+My last company,
+Tau Dave,
+we pioneered the sales
+engagement category
+and when I started the company
+I was an engineer,
+I hated sales, I hated marketing,
+just wanted to have a stripe link
+and have people pay
+with their credit card.
+But over time,
+I learned that you have to embrace
+go to market as a founder,
+especially if you want to win
+and stand out.
+thankfully we had
+some incredible investors.
+We were backed by the likes of Andrews
+and Horowitz, Jackson
+Square Ventures,
+a founder collective,
+and they introduced me to some incredible
+go to market people,
+and they showed me
+what it takes
+to build a proper go to market
+strategy and drive growth.
+We amassed over 100,000
+salespeople on the platform.
+We sold the company to Marketo.
+I then joined Marketo.
+I joined the executive team
+as VP of strategy.
+We did a two year transformation
+and go to market transformation,
+and then we sold Marketo
+to Adobe for $4.75 billion.
+After leaving Adobe,
+I started this channel
+as a little
+bit of a passion project,
+as form of an outlet
+to share everything I had learned.
+Fast forward to today.
+We've helped
+hundreds of founders based on the
+go to market principles
+that I share on this channel.
+and right now in 2026,
+it's an incredible time with AI
+and go to market
+because building software
+is easier than ever.
+But go to market is harder than ever.
+And despite
+what the gurus are telling you,
+your cloud code
+can't do all your go to market for you.
+So I'm sharing the latest
+and greatest principles
+founders and marketers
+need to know,
+and actually how to drive
+growth based on what's
+working across my companies.
+So if you're excited
+to dig in on the three principles
+that you absolutely need to know on
+building your go to market
+strategy framework
+so that you can actually
+put the humans to work
+and the AI to work,
+and it all works together.
+Go ahead and smash that like button
+for the YouTube algorithm, and let's dig
+right into so principle
+number one in building out your
+go to market strategy.
+The framework that I use is media.
+And I'm going to use a real example
+to show you
+what this media thing is all about.
+Remember that guru I talked about?
+Believe it or not,
+that guru
+is basically working
+for Elinor at Anthropic
+because what that guru is doing
+is going out there
+and posting on social media
+and talking about cloud code,
+and you are seeing that
+and you're saying, oh my God,
+I got to get on cloud code,
+then you're getting into their product
+and eventually
+you're going to be buying
+from cloud code.
+Even though
+the promise
+of what
+the guru said
+of the 69 skills
+that can completely run your go to market
+organization, it's not quite true,
+but it's enough to
+get you into the product.
+Enough of a teaser.
+So media is one of the biggest things
+that every single founder,
+every single fast
+growing company is embracing,
+and not just the type of media
+where you do a press release
+or you go to an event,
+but social media and actual ads
+social media and Google, Google ads,
+they're doing an entire array of channels
+that are digital to make it
+where anthropic is
+everywhere, to make it,
+where even OpenAI
+is everywhere to make it,
+where AI is everywhere.
+And the biggest thing about this
+is all of the things
+that they're doing around media,
+whether it's Eleanor talking about her
+own organization,
+that's part of the media strategy.
+It's the guru talking about it
+without even realizing
+that they're basically working
+for Eleanor in one shape or
+because they're not going to
+make that much on selling cloud skills.
+Like,
+hopefully you don't pay for that stuff.
+They're just giving it away for
+and wondering where the money is.
+But the reason
+this is so effective is
+because they're not talking,
+per se about the features of cloud code.
+They're not going into the nuances
+of how they trained the model
+or what
+the model is even capable of doing.
+They're basically talking about
+how AI is going to disrupt everything.
+They're going into a conversation
+that's already happening in the media
+about AI and the disruption
+and the job disruption.
+That's a big thread that's happening,
+and they're just attaching to it,
+and they are talking about,
+hey, let's go build a movement.
+That building this movement about, hey,
+I should fire all the humans
+that I don't like anyway
+and just put it all in
+with token costs
+and using more AI,
+even though the technology
+is not quite there.
+So it's working really well.
+This media strategy
+is something that I deploy
+for every single company
+that I've ever owned,
+and every single company
+that I operate right now,
+and is one of the key things
+that I teach any single,
+any single founder that I work with
+and This YouTube
+channel is a perfect example
+of my media strategy.
+But it's not just video.
+I am extensive on LinkedIn
+talking about the products
+and services that my company
+I'm extensive on X and we have ads
+We have a complete media strategy,
+but the difference here is
+none of that is actually talking
+about the features of the product.
+We're actually talking
+about the macro trends
+that are happening in Elena's case.
+In anthropic case,
+the macro trend that they created
+and manufactured and is now a site
+guys, a top of mind for everyone
+AI is replacing humans.
+That is literally a trend
+that is driving the entire token
+maxing movement,
+and they are basically feeding it
+more and more in the media,
+even though in her actual
+talk,
+she's talking about how she's hiring
+more humans than ever before with Claude
+helping each of the humans.
+So the media
+strategy is one of the key components
+to having a
+go to market strategy today in 2026.
+If you are not on LinkedIn X,
+Facebook, Instagram,
+if you're not on those platforms
+talking about the movement
+that you're creating,
+talking about the big transformation
+that's happening in your customers
+lives, then you're missing
+the most important piece.
+The other thing about
+this is principle
+one is not about posting on LinkedIn.
+That is a tactic.
+That is not a strategy.
+The strategy is asking yourself,
+what is the big transformation
+that's happening in the world
+that we want to attach ourselves to?
+What is the thing that's happening in
+our customers lives
+that we can talk about in the media?
+Therefore,
+we can influence them and start
+to guide them into our sphere.
+Those are the strategic questions
+you want to be asking.
+In principle.
+Number one, as you are building out your
+go to market strategy.
+And again,
+this is why that clod code scale,
+you could it will give you an answer.
+You can say, hey,
+what should my media strategy be?
+And what should the macro trend
+be that I talk about?
+For my ideal customer,
+it will give you an answer.
+However, it may not be the right answer
+because it doesn't know.
+Because all you have to do
+once it gives you an answer and say,
+hey, are you 100% sure about that?
+And you'll say, actually,
+it could be this.
+And you say again,
+are you 100% sure about
+And then you'll say, actually,
+no, I made that up. It's this.
+And you can say, well, by the way.
+Here's a unique insight about my product
+and my best customers.
+And I say, oh, actually, never mind.
+It's actually this.
+And now you have four different answers
+from AI.
+All very definitive.
+This is why the smart people
+that are actually making money,
+not the gurus
+that are just posting, trying to sell you
+a cloud code kit or something like that.
+You know, Eleanor,
+this is why they're hiring humans.
+This is why they have the 16
+marketing jobs still open.
+This is why they have 69
+salespeople that they're still hiring.
+This is why
+they're hiring more people
+and marketing
+and sales
+as much as
+they're hiring for engineering,
+because AI on its own
+can't figure out your media strategy
+for your go to market strategy,
+you can't.
+You need some smart humans
+to look at this and say, okay,
+well,
+what should be the distinction here?
+And what's the best way to approach this?
+But once you land,
+once you land on the media strategy,
+well, then I can
+You can say, this is my media strategy.
+This is my ideal customer.
+This is my positioning.
+This is the macro trend that's happening.
+This is all the inputs.
+And based on that,
+I want you to actually start
+helping me implement this media strategy.
+AI is very good at that.
+But in order to get to that,
+you actually have understand
+what your media strategy should be,
+what goes into it,
+and what makes for
+an effective media strategy
+and actually have some of that.
+in San Francisco we call it taste.
+You have to have that taste
+to understand
+how this should come together. Okay.
+So that's principle number one media.
+That's number one in your go to market.
+Strategy number two is product.
+the product has to start for free.
+It has to be addictive
+and it has to deliver an moment.
+Now if you take a step back that guru
+that's selling you
+the skills that can run your entire
+what they're really doing
+is it's a brilliant product
+led growth strategy.
+They're basically saying, here's
+the big transformation you can have
+and you're like,
+oh my God, I don't need people.
+I can't even afford people.
+I can't afford all these people.
+So $200 a month
+AI will just do everything for me
+and I get these skills. Boom.
+And all of a sudden, you're,
+like, setting up cloud code.
+You've never even opened
+a terminal before,
+and you're setting it all up
+and you're in the product.
+the thing is, you can start for free.
+And also it is very addictive.
+And also you can get to
+some form of in a moment.
+It will give you some answers.
+Those skills will give you some answers.
+And you're like, you know what?
+It's totally right.
+I don't know
+if this has ever happened to you.
+This has happened to me because you asked
+AI something
+and it answers so quickly
+with so much definitive ness.
+You're always wowed by it
+and you're like,
+oh my God, this is amazing.
+then you put it out there,
+you post it
+or you email
+it, wrote a cold email for you
+or did a LinkedIn post for you.
+You do then nothing happens.
+And then you come back and you look at it
+and you're like,
+oh my God, this is terrible.
+I call this phenomenon drunk.
+AI drunk is like,
+you're so drunk on the AI,
+you can't even tell that
+it's not that good.
+But because it came
+with so assertiveness,
+it came so quickly.
+Like, this is awesome. they're smart.
+It gets you to an moment really fast.
+Now imagine you downloaded those skills
+and you set up cloud code
+and you went in and you said, hey,
+what should my value proposition be?
+Or build out my ideal customer profile?
+And it came back and said, actually,
+that's a very nuanced question,
+and I don't want to steer
+you the wrong way.
+So can you answer
+some additional questions for me
+before I give you an answer?
+Imagine it did that it wouldn't work.
+Why don't they do that?
+It's because
+then the product
+would not be very addictive
+and you wouldn't get to an moment there.
+When is basically getting you
+to some sort of
+with some sort of an answer
+where you say, oh my God,
+this is amazing, I'm going to go run it.
+then, you know, three weeks goes by,
+you don't make any money
+and you got to go back and figure out
+like, well, what's
+actually broken
+with my go to market strategy.
+So this is a little bit of a meta point,
+but they do it really well for them.
+It really works as a business
+because you get into the product,
+you start for free.
+It's very addictive.
+Cloud code is like a video game
+and you get to some form of an moment.
+if you're thinking about your
+go to market strategy,
+when you get the media going,
+you get a bunch of inbound demand.
+And as you get the inbound demand,
+you want to get them into your product
+as fast as possible.
+It is no longer enough to just say,
+we are an AI platform.
+We're going to
+completely change everything.
+It is also no longer enough
+to have cloud code design your website,
+and it's got black background
+with the neon text,
+and you scroll through
+and there's all this stuff.
+Guess Everyone knows you cloud coded it.
+It's just like 50 other startup websites
+it kind of looks like crap.
+So that's not good enough.
+You actually have
+to get people into the product.
+You have to get them feeling the product.
+You have to
+get them addicted to it for free,
+and then you have to give them
+some sort of an moment,
+and then they'll
+actually get into your product
+and start using it more and more.
+That's principle number
+two of your go to market strategy.
+Principle number one is
+you got to get the media
+to get into their conversation
+even before they start
+thinking about buying.
+You talk about the problem, talk
+about the macro trend.
+Get them to come to you.
+And then you have to get them
+to try the product.
+Those are the first two principles.
+as you dig more into the
+go to market strategy framework
+that's working
+today, there's a third
+one that is super powerful,
+that brings us all together.
+Because with just these two,
+you're not going to make enough money.
+You need the third one.
+So before I go into that,
+let me pause here for a second.
+This episode is brought to you
+by the folks at unstoppable.
+Unstoppable is a portfolio
+company of mine.
+If you're in this stage
+where you're looking to implement
+your go to market strategy
+and figure out the
+go to market
+strategy, unstoppable
+runs programs for founders
+and CEOs of companies of different stages
+to help you
+build out your go to market strategy.
+They have the battle hardened
+AI tools, they have the deep research,
+and they have the actual experts
+to help you do all of this.
+So this episode is made possible
+by the folks at unstoppable.
+Go give them some love.
+Just go to get unstoppable.
+Get on stoppable
+and over there
+you'll see all the success stories.
+You'll see the different programs
+that they offer,
+their different engagements,
+it'll help
+you actually implement everything
+I'm talking about in this episode.
+Also, you're getting value
+and if you're getting excited about
+actually fleshing out your
+go to market strategy
+so that you can accelerate
+your growth, ahead and smash
+that like button
+for the YouTube algorithm.
+It loves it when you do
+the like button is a YouTube
+algorithms love language.
+My love language is comments.
+So if you're getting an moment,
+if you're getting excited about this,
+go and put a yes in the comments.
+Smash that like button two.
+And also
+if you have thoughts around this,
+put it in the comments.
+I love responding to them
+so they're my love language.
+Okay, now let's go to number three.
+You got the media.
+You're talking big picture.
+You're mobilizing your customers.
+You're mobilizing the influencers.
+You're running the ads.
+You now
+have a whole swarm of message out there
+that's attracting your ideal customers
+into your product.
+And they're coming in
+and they are starting for free,
+and they are getting addicted.
+They're having some sort of moment.
+probably seen this before.
+I've seen this in my companies
+where you'll get a lot of people,
+but they stay in the free tier.
+You'll get some people
+that that convert to paid,
+but then they don't stick around
+and you get churn
+and then you're like, well,
+Jesus, how many,
+how many posts do I need to do?
+How many ads do I need to run
+to sell a $99 a month product?
+And you realize it's going to be a lot,
+and the church is always going to kill it
+and you can't pay.
+It's like a losing equation.
+This is where number three comes
+This is Eleanor also did
+and anthropic did,
+and all of the
+AI Frontier Labs
+did, which is hilarious because,
+you know,
+the media narrative is it's killing jobs,
+but they're hiring faster than ever
+before sales. They're hiring salespeople.
+Remember how I was talking about
+how Anthropic Hired is open,
+has an open positions for 69 sales people
+or sales.
+Sales is the thing you got to add.
+Even if your product lead,
+you have to add sales in the back end.
+If you're selling $1 million a year
+solution, you have to add
+sales much earlier in the front
+But you need sales.
+But specifically for today
+in the AI in SaaS.
+And when you're building out your
+go to market strategy,
+there's two things
+you have to do in the sales
+The first one is
+you have to have a land and expand.
+So if they're coming
+into the free product,
+you got to figure out
+how to get them to a pay tier
+and why they should get to a pay tier
+if they are in the $99 a month tier.
+Man, that sucks.
+It's just not fun
+selling at $99 a month
+You got to figure out how to get to
+$1,500 a month to
+So that's just what you have to
+Because if you can't do that,
+that means you're not providing
+enough value and you're just not going
+get enough volume.
+It's just a complete mess.
+The second thing that the way you do
+that, you're like,
+how would we ever do $1,500?
+Well, would sell solutions,
+you would sell outcomes
+and you would sell services.
+That's how you make the shift.
+This is the biggest shift,
+the most exciting shift
+that's happening in go to market in 2026.
+AI companies, the best
+AI companies, even anthropic.
+They're not making their money
+on the $200
+a plan like they're losing money on it.
+Where they're making money
+is their sales
+team goes in
+and they say, hey, listen,
+we want you to standardize on our model
+and we want to help you drive
+serious enterprise transformations.
+We want to take over
+serious workflows
+that run in your back end
+and have it run on our models.
+And by the way,
+that will probably at some point
+replace some humans.
+So they sell solutions.
+They go in
+and they are selling solutions,
+they're selling outcomes
+and they're selling services,
+which used to be services
+used to be kind of like a dirty word.
+But now it's totally cool
+because services meant
+you have to
+hire an army of people,
+and that means your margins are terrible.
+Where now, little by little,
+AI can do most of that work,
+which means that services
+are really engineered.
+They call them forward
+deployed engineers,
+and they go in and implement
+the model, implement
+the workflows, engineer the missing gaps,
+and you charge a heck of a lot for it.
+And the buyer doesn't care
+because all they care about
+is the outcome and the solution.
+And that's
+what the sales process is selling.
+The other thing that comes together
+that's really powerful is
+sales gets you close to the customer.
+And I've never been part of a company
+where, you know,
+we just kept it as a stripe link
+and it worked.
+Like growth always came
+when we got closer to the customer.
+So the more customer conversations
+you have in the sales process,
+what you're going to get is data?
+You're going to get a lot of data
+because on average, the sales process,
+it's like a 20 to 50% win
+rate, meaning
+you don't win all the deals,
+but you learn a lot.
+You get a ton of data,
+and based on that data,
+you can actually feed it back
+into your product to figure out
+how you can get people
+to an moment faster,
+to figure out how
+you can actually get them addicted.
+But more importantly,
+every single insight that you have,
+just think about the recording
+from every sales conversation.
+You can feed it back into AI.
+This is where AI is really great
+and say,
+hey, given my media strategy,
+give me more content
+based on the sales
+conversations I'm having,
+I want to outline all the problems
+that customers are talking about.
+I want to talk about,
+outline all the objections,
+and I just want to feed it
+back into my media strategy,
+and I want to feed it back into
+my product.
+And he has great at that
+because you got the thing humming.
+So that's where sales is
+super powerful as well.
+Okay.
+So let's recap these things
+and then we're going
+to wrap it all together
+and give you some actual next steps.
+Number one,
+to build out your go to market strategy
+that works today in 2026.
+In the AI
+era for your SaaS company,
+number one, you got to do media.
+You have to do media.
+You have to hook into a macro trend.
+You have to own the conversation.
+In your ideal buyers mind,
+you have to build a movement.
+You have to get them to come to you.
+If you are still doing outbound in 2026,
+it is for losers
+because their inboxes are flooded,
+everyone's emailing them,
+every HDR is sending them slop.
+You're just going to look like a loser.
+So you have to embrace a media strategy
+where they come to you.
+Number two,
+you have to get them into your product
+as they come to you,
+get them into your product,
+start for free, make it addictive.
+Get them to some sort of.
+In a moment
+you might say TK we sell and argentea
+ERP platform and it's 500 K
+just to start.
+There's no way
+I can give them a free trial.
+That's fine.
+Put them into an ROI calculator.
+There's different ways
+to get them into a product
+to get them to an moment.
+So it doesn't have to
+be the actual product.
+It could be a subset
+or some sort of an experience.
+And number three,
+as people
+come in, experience
+some sort of in a moment,
+get to some sort of addictive loop,
+put in sales,
+go put in sales, land
+and expand the deal.
+Sell them solutions,
+outcomes and services.
+Fulfill the services and the outcomes
+using AI as much as possible.
+The rest of humans
+and little by little improve your margins
+but get bigger deals.
+Don't be stuck selling a $99
+a month product.
+It is the worst brings the worst people.
+So those are my three principles
+for building out
+your go to market strategy today in 2026,
+So to recap lastly number one
+you got to own the media.
+Number two
+you got to build the addictive product
+and get them into it.
+And number three
+then you got to send in the salespeople
+so that they buy bigger and bigger deals.
+Now if you're in this stage
+where you are
+figuring out
+your go to market strategy
+you're like, okay,
+I tried the cloud code skills,
+it's not quite working.
+We need some experts.
+This episode is sponsored
+by the folks at unstoppable.
+Unstoppable is a portfolio
+company of Unstoppable
+has been working for years,
+I think our sixth year in business.
+Believe it or not,
+all our competitors
+have gone out of business. It's wild.
+This is our sixth year
+going into our seventh,
+helping founders
+build out their go to market strategy
+and then execute on it.
+You get a mix of the right
+AI tools, the right research reports,
+and the right experts to help
+you make the right decisions.
+And we have three different programs
+depending on the stage of company
+you're in,
+so be sure to give them some love.
+They are sponsoring this episode
+and making it possible
+for me
+to just put out free
+YouTube episodes with this much content.
+So who's going to get unstoppable
+for all the details?
+If you want help building out your
+go to market strategy.
+Also,
+if you got value from this episode,
+please smash that like button
+for the YouTube algorithm.
+The like button is the law of language
+of the YouTube algorithm.
+We put a lot of love into these episodes,
+and so it just means the world to us.
+When you hit
+Smash the Like button,
+I also drop an episode
+every single Sunday
+with actionable strategies
+and tactics on how to grow your SaaS
+and AI and advisory business faster.
+Because I own and operate mine,
+and I just teach you
+everything I'm learning.
+So be sure to hit the subscribe button
+and that bell icon.
+That way
+you'll get notified
+every single time I drop an episode.
+If you have a fellow founder,
+if you have a team member,
+they'll get value from this episode.
+Please share it with you're
+part of a slack group,
+WhatsApp group, discord group,
+whatever it is, I'll share this video
+in the world to Also,
+if you are in the stage
+where you're like,
+okay, I want to learn more.
+I want to get more into this.
+Check out this video.
+These are my six steps
+to building out a go to market plan.
+Once you have
+the strategy,
+part of
+that is building out the plan on
+how you're going
+to implement that strategy.
+So check out that episode.
+And lastly, remember
+everyone needs a strategy
+for their life and their business.
+When you are with us,
+yours is going to be unstoppable.
+Mark and I'll see you in
+the next episode. Take care everybody.
