@@ -13,28 +13,33 @@ its text and metadata into their `posts.md` file using the template below.
 
 ## Entry template
 
+Post text itself is not reproduced verbatim in this repo — these creators' posts are
+copyrighted, and this is a public repository. Each entry instead links directly to the
+original post and breaks down the framework/technique it teaches, which is what the
+eventual playbook actually needs.
+
 ```markdown
 ## [Post title / first line as heading]
-- **Date posted:** YYYY-MM-DD
-- **URL:** https://www.linkedin.com/posts/...
-- **Engagement:** (likes / comments / reposts, approximate, optional)
+- **Date posted:** YYYY-MM-DD (~ = approximate, LinkedIn only shows relative timestamps)
+- **URL:** https://www.linkedin.com/feed/update/urn:li:activity:...
 
-**Post text:**
-> Paste the full post text here, verbatim.
+**Framework/technique:**
+What the post teaches, in enough detail to apply without re-reading the original.
 
 **Why it's useful:**
-One line on what pattern/framework/technique this post demonstrates.
+One line on how this fits the B2B SaaS organic content playbook.
 ```
 
 ## Status
+_As of 2026-07-08._
 
 | Author | Posts collected |
 |---|---|
-| Justin Welsh | 0 |
-| Lara Acosta | 0 |
-| Nick Bennett | 0 |
-| Sam Browne | 0 |
-| Ryan Musselman | 0 |
-| Jasmin Alić | 0 |
-| Dina Calakovic | 0 |
-| Melissa Kwan | 0 |
+| Justin Welsh | 3 |
+| Lara Acosta | 4 |
+| Nick Bennett | 4 |
+| Sam Browne | 4 |
+| Ryan Musselman | 4 |
+| Jasmin Alić | 4 |
+| Dina Calakovic (now Dina Town) | 3 |
+| Melissa Kwan | 4 |
