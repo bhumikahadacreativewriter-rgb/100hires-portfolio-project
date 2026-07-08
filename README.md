@@ -61,18 +61,26 @@ Most automated tools pull up generic marketing influencers. To ensure high-quali
 
 | Expert | Platform | Content collected |
 |---|---|---|
-| Justin Welsh | LinkedIn | 0 posts (template ready) |
-| Lara Acosta | LinkedIn | 0 posts (template ready) |
-| Nick Bennett | LinkedIn | 0 posts (template ready) |
-| Sam Browne | LinkedIn | 0 posts (template ready) |
-| Ryan Musselman | LinkedIn | 0 posts (template ready) |
-| Jasmin Alić | LinkedIn | 0 posts (template ready) |
-| Dina Calakovic | LinkedIn | 0 posts (template ready) |
-| Melissa Kwan | LinkedIn / YouTube | 0 posts, 3 transcripts |
-| Christopher Lochhead | YouTube | 1 transcript |
-| TK Kader | YouTube | 3 transcripts |
+| Justin Welsh | LinkedIn | 3 posts |
+| Lara Acosta | LinkedIn | 4 posts |
+| Nick Bennett | LinkedIn | 4 posts |
+| Sam Browne | LinkedIn | 4 posts |
+| Ryan Musselman | LinkedIn | 4 posts |
+| Jasmin Alić | LinkedIn | 4 posts |
+| Dina Calakovic (now Dina Town) | LinkedIn | 3 posts |
+| Melissa Kwan | LinkedIn / YouTube | 4 posts, 3 transcripts |
+| Christopher Lochhead | YouTube | 1 transcript, 4 framework-episode notes |
+| TK Kader | YouTube | 3 transcripts, 4 framework-article notes |
 
-**Totals:** 7 YouTube transcripts across 3 experts, 0 LinkedIn posts collected yet across 8 experts.
+**Totals:** 7 YouTube transcripts + 8 supplementary framework write-ups across 3 experts,
+30 LinkedIn posts collected across 8 experts.
 
-**Known gap:** LinkedIn post collection hasn't started — next step is manually pulling
-3-5 representative posts per LinkedIn-focused author into their `posts.md` file.
+**Notes on this pass:**
+- Post text itself is not reproduced verbatim (copyright) — each entry links to the
+  original and breaks down the framework/technique instead. Full text is at the URL.
+- Two identities changed since the initial source list: Dina Calakovic now goes by
+  **Dina Town** (old profile URL is dead), and Nick Bennett's current focus is
+  events/ABM rather than the founder-brand angle originally noted — both updated in
+  `research/sources.md`.
+- Nick Bennett's profile match is corroborated by a third-party page, not the profile's
+  own bio (common name) — flagged as lower-confidence in `sources.md`.
